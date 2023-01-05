@@ -5,3 +5,5 @@ The dashboard consists of several worksheets, each containing databases and paym
 The loan management system dashboard is highly flexible, allowing users to add or remove data fields  as needed. It is an effective tool for tracking and analyzing loan performance, and can help lenders make informed decisions about their loan portfolio.
 
 I hope this description is helpful! Let me know if you have any questions/ objections.
+
+Tools Used : Microsoft Excel
